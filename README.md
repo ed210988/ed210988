@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and data science. 
 - 🌱 I'm already skilled at scripting/coding in javascript, SQL & C#. 
 - 🌱 Developing projects using NET Framework, NET Core & following MVC design pattern.
-- 💞️ I’m looking to collaborate on Fintech companies
+- 💞️ I’m looking to collaborate with tech companies.
 - 📫 How to reach me: edgar.eguiacalcaneo@hotmail.com
 
 <!---
